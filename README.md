@@ -22,6 +22,8 @@ Those include firstly a city selection page, then gender selection page and last
 - As soon as all filters are chosen, the platform will show you possible groups that fit those criteria.
 - The user is then able to click on the idividual groups and get a more detailed information about them. Aditionally the user is able to send them a message.
 
+- If no possible groups are found, the user will be greeted by a chatbot and is able to ask any other questions they might have.
+
 # Instructions to run gui
 1. For this platform to work, the files `app.py`, `helpers.py` as well as all `images` (the whole repository) need to be downloaded or cloned into the location of your choice.
 
